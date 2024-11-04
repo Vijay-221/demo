@@ -1,4 +1,4 @@
 # demo
 first git repository
 <br>
-Vijay 
+Vijay (MANIT)
